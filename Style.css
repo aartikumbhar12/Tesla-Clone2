@@ -43,7 +43,7 @@ button{
     background-color:black ;
     border-radius: 20px;
     margin:2rem ;
-    color: white;
+    color: blue;
 }
 nav{
     display: flex;
